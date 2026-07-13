@@ -129,7 +129,7 @@ The raw tables are integrated into a centralized analytical dataset (`fact_ecomm
 ```text
 .
 ├── E_Commerce_Business_Intelligence.ipynb   # Main notebook (end-to-end analysis)
-├── data_e-commerse/                         # Raw dataset (download from Kaggle, not included in repo)
+├── data_e-commerse/                         # Raw dataset (download from Kaggle)
 │   ├── olist_customers_dataset.csv
 │   ├── olist_orders_dataset.csv
 │   ├── olist_order_items_dataset.csv
