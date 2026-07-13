@@ -1,4 +1,4 @@
-# 📊 Brazilian E-Commerce Business Intelligence Analysis
+# 🛒 Brazilian E-Commerce Business Intelligence Analysis
 
 An end-to-end **Business Intelligence** case study using the **Olist Brazilian E-Commerce Public Dataset (2016–2018)**. This project simulates the role of a **Data Analyst / Business Intelligence Analyst**, transforming raw transactional data into actionable business insights through data cleaning, feature engineering, exploratory data analysis, customer analytics, statistical hypothesis testing, and star schema modeling for downstream BI dashboards.
 
